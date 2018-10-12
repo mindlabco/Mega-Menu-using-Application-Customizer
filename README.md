@@ -11,12 +11,14 @@ To use the web part follow the below steps:-
 4) Navigate to the cloned repository folder
 5) Open your system's terminal on that folder
 6) Now run *npm install* command to install all the npm packages
-# Output
+# Column Configuration
 
-1) Below is screen shot of the column configuration named *Parent Node*
+Below is screen shot of the column configuration named *Parent Node*
 
 ![Image of Yaktocat](https://github.com/mindlabco/Mega-Menu-using-Application-Customizer/blob/master/Column-Configuration.png)
 
-2) Below Screenshot wil be the output of this extension
+# Output
+
+Below Screenshot wil be the output of this extension
 
 ![Image of Yaktocat](https://github.com/mindlabco/Mega-Menu-using-Application-Customizer/blob/master/Transocean-navigation.png)
