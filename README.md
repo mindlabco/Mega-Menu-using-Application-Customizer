@@ -10,7 +10,8 @@ To use the web part follow the below steps:-
 3) Open that list and add one more look up column named *Parent Node*. That look up column will have the values of *Title* column of the same list.
 4) Navigate to the cloned repository folder
 5) Open your system's terminal on that folder
-6) Now run *npm install* command to install all the npm packages
+6) In your terminal, Navigate to the web part folder inside the cloned repository
+7) Now run *npm install* command to install all the npm packages
 # Column Configuration
 
 Below is screen shot of the column configuration named *Parent Node*
