@@ -1,0 +1,18 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "transocean-navigation-application-customizer": {
+      "components": [
+        {
+          "entrypoint": "./lib/extensions/transoceanNavigation/TransoceanNavigationApplicationCustomizer.js",
+          "manifest": "./src/extensions/transoceanNavigation/TransoceanNavigationApplicationCustomizer.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "TransoceanNavigationApplicationCustomizerStrings": "lib/extensions/transoceanNavigation/loc/{locale}.js"
+  }
+}

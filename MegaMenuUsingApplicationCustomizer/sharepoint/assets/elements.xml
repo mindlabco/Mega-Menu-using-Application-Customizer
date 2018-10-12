@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <CustomAction
+        Title="TransoceanNavigation"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ClientSideComponentId="afb5198f-3878-4df7-894c-ee7151668ddb"
+        ClientSideComponentProperties="{&quot;testMessage&quot;:&quot;Test message&quot;}">
+    </CustomAction>
+</Elements>

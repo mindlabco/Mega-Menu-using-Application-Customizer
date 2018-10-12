@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.0",
+    "libraryName": "transocean-navigation",
+    "libraryId": "7d3536b3-3c28-4a60-a8a1-a686f3533594",
+    "environment": "spo"
+  }
+}

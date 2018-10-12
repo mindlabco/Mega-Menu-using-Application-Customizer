@@ -1,0 +1,14 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx/client-side-extension-manifest.schema.json",
+
+  "id": "afb5198f-3878-4df7-894c-ee7151668ddb",
+  "alias": "TransoceanNavigationApplicationCustomize",
+  "componentType": "Extension",
+  "extensionType": "ApplicationCustomizer",
+
+
+  "version": "*",
+  "manifestVersion": 2,
+
+  "requiresCustomScript": false
+}
